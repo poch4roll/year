@@ -35,8 +35,8 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              We have had tons of adventures together the past year and I'm grateful to have experienced each of
-              them with you! I look forward to the countless more which I'm sure we'll have.
+              We have had tons of adventures together the past year and I&#39;m grateful to have experienced each of
+              them with you! I look forward to the countless more which I&#39;m sure we&#39;ll have.
             </p>
             <br />
             <p>
