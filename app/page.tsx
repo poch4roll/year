@@ -7,6 +7,12 @@ export default function Home() {
       <HeroSection />
       <AboutSection />
       <ProjectsSection />
+      <br></br>
+      <hr></hr>
+      <br></br>
+      <p>
+        PS: we should really take many more videos and pictures this year.
+      </p>
     </main>
   )
 }

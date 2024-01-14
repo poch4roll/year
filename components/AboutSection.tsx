@@ -1,5 +1,8 @@
+"use client"
 import React from "react"
 import Image from "next/image"
+import { Link } from "react-scroll/modules"
+import { HiArrowDown } from "react-icons/hi"
 
 const skills = [
   { skill: "HTML" },
@@ -35,26 +38,30 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              We have had tons of adventures together the past year and I&#39;m grateful to have experienced each of
+              We have had tons of adventures together the past year including 5 trips to JB, seeing your first countdown,
+              cooking, eating lots of sushi, we even taught a module together??
+              and I&#39;m grateful to have experienced each of
               them with you! I look forward to the countless more which I&#39;m sure we&#39;ll have.
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+              I hope you like this UNIQUE anniversary present hehe, and I hope it&#39;s something you can look at 
+              anytime and anywhere you are! I&#39;ll like to remind you that I think you are the prettiest, most sweetest girl, and
+              very very clever as well! &#40;A+ for Jap ? PLSS&#41; I know that sometimes things get hard and I may be difficult, 
+              but I&#39;m grateful that we keep trying, and you should know that I will continue to do so.
             </p>
             <br />
             <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              Thank you for being patient with me and caring for me, especially when I am unwell. You are an amazing 
+              gf, I love you so much, and I am so lucky to have you hehe. 
+              I hope that I will be able to bring you lots of happiness! and more importantly be there when you need me.
+            </p>
+            <br />
+            <p>
+              Happy Anniversary BB !!
+            </p>
+            <p>
+              - Yours 🩵
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
@@ -80,6 +87,19 @@ const AboutSection = () => {
             />
           </div>
         </div>
+      </div>
+
+      <div className="flex flex-row items-center text-center justify-center ">
+        <Link
+          to="projects"
+          activeClass="active"
+          spy={true}
+          smooth={true}
+          offset={-100}
+          duration={500}
+        >
+          <HiArrowDown size={35} className="animate-bounce" />
+        </Link>
       </div>
     </section>
   )

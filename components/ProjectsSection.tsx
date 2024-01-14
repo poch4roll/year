@@ -61,48 +61,54 @@ const projects = [
   {
     name: "July",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "ANOTHER MONTH WE ONLY HAVE ONE PIC TGT. Okay but this month is excusable because we each spent almost all of it in JAPAN!! and I'm sure you had lots of fun there like I did (I wanna go back urghh) "
+      + "We DID go to one place together, and that was Kurasu! which has arguably the best mentai fries because they were just so LOADED.",
+    image: "/jul.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
   {
     name: "August",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "We have a ton of pictures in August because we did SO MANY things but I chose this one because I don't remember this one, and it looks really nice?? "
+      + "There was girlfriend dayyy and there was your birthdayyy and we even went to JB together for the 4th time! "
+      + "On our JB trip we stayed at puteri harbour (my first time) for TWO nights (our longest stay yet) and we ate sooo much food this trip such as Arashi, HDL and Rockefellas isit?? "
+      + "OH and we also went to SKY HELIX and caught a reallyy nice sunset because we professionally timed it hehe (so many nice photos here too)",
+    image: "/aug.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
   {
     name: "September",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "In September we took that really nice mirror selfie but the mirror ruined it with its smudges HAHAHA. You got to try ShakeShack for the first time (thinking about it we haven't been back there in a while...), and we celebrated an early bf day!! "
+      + "We had Tipo which we had for gf day also I'm pretty sure? and we finally took our first polaroid together which turned out nicely horr (of course I had to use it). We also have a photo of us teaching BT which I thought was nice to commemorate it.",
+    image: "/sep.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
   {
     name: "October",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "I think October was really snoozee, we barely have any pictures, let alone of ourselves. But there are a few pictures of us chilling at MBS, oh and you were wearing THAT blue dress, and this is the time we tried something new..",
+    image: "/oct.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
   {
     name: "November",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "Ooo I really like this picture actually, it's really CUTE. It's from the day we had a date at Bugis, where we had dinner at Huevos, Monarchs and Milkweed gelato, and you custom made your butterfly necklace! I also got a big fat fukufuku from you for my birthday hehe and we put up my house christmas tree together!",
+    image: "/nov.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
   {
     name: "December",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
+      "We did SO many things in December, also because it was FINALLY Winter break (as I write this winter break is literally ending 😭). We built a ton of lego during the break, went on our first IKEA date, saw the christmas lights at orchard road, took pictures with cinnamoroll at marina square, went on a thrift date (we walked so much that day), had fluff stack for the first time, went to kurasu for a matcha date, "
+      + "and we even had a half day in JB where I got to try Kinsahi and we watched the bad aquaman in the next most awesome cinema in JB. On the LAST day of the year, we went on extra long adventure along orchard road, took some nice pictures with one of the remaining christmas trees, and then we went to woodlands to see your FIRST EVER countdown live!!",
+    image: "/dec.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
   },
