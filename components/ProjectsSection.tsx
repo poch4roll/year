@@ -62,7 +62,7 @@ const projects = [
     name: "July",
     description:
       "ANOTHER MONTH WE ONLY HAVE ONE PIC TGT. Okay but this month is excusable because we each spent almost all of it in JAPAN!! and I'm sure you had lots of fun there like I did (I wanna go back urghh) "
-      + "We DID go to one place together, and that was Kurasu! which has arguably the best mentai fries because they were just so LOADED.",
+      + "We DID go to one place together, and that was Daizu! which has arguably the best mentai fries because they were just so LOADED.",
     image: "/jul.png",
     github: "https://github.com/hqasmei/katorfamilyphotos",
     link: "https://katorfamilyphotos.com/",
